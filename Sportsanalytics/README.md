@@ -8,7 +8,7 @@ The goal of this project was to evaluate the impact of a marketing bonus on play
 
     Business Intelligence: A Power BI Dashboard providing stakeholders with interactive insights into marketing ROI and player risk.
 
-Based on the analysis of 33.47M in total stakes and a baseline churn rate of 10.62%:
+Based on the analysis of 33.47M in total stakes and a churn rate of 10.62%:
 
     A/B Test Success: The marketing campaign drove a statistically significant increase in wagering volume for the test group.
 
